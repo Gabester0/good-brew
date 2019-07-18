@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Gabester0/good-brew/index.js/static/css/main.97ce96e7.chunk.css",
-    "main.js": "/Gabester0/good-brew/index.js/static/js/main.fc4f79bb.chunk.js",
-    "main.js.map": "/Gabester0/good-brew/index.js/static/js/main.fc4f79bb.chunk.js.map",
-    "runtime~main.js": "/Gabester0/good-brew/index.js/static/js/runtime~main.0428deb2.js",
-    "runtime~main.js.map": "/Gabester0/good-brew/index.js/static/js/runtime~main.0428deb2.js.map",
-    "static/js/2.8d6cc170.chunk.js": "/Gabester0/good-brew/index.js/static/js/2.8d6cc170.chunk.js",
-    "static/js/2.8d6cc170.chunk.js.map": "/Gabester0/good-brew/index.js/static/js/2.8d6cc170.chunk.js.map",
-    "index.html": "/Gabester0/good-brew/index.js/index.html",
-    "precache-manifest.2319198aa72b52b291c977ebcb4171c9.js": "/Gabester0/good-brew/index.js/precache-manifest.2319198aa72b52b291c977ebcb4171c9.js",
-    "service-worker.js": "/Gabester0/good-brew/index.js/service-worker.js",
-    "static/css/main.97ce96e7.chunk.css.map": "/Gabester0/good-brew/index.js/static/css/main.97ce96e7.chunk.css.map"
+    "main.css": "/Gabester0/good-brew/index.html/static/css/main.97ce96e7.chunk.css",
+    "main.js": "/Gabester0/good-brew/index.html/static/js/main.1c34c5a8.chunk.js",
+    "main.js.map": "/Gabester0/good-brew/index.html/static/js/main.1c34c5a8.chunk.js.map",
+    "runtime~main.js": "/Gabester0/good-brew/index.html/static/js/runtime~main.81510221.js",
+    "runtime~main.js.map": "/Gabester0/good-brew/index.html/static/js/runtime~main.81510221.js.map",
+    "static/js/2.8d6cc170.chunk.js": "/Gabester0/good-brew/index.html/static/js/2.8d6cc170.chunk.js",
+    "static/js/2.8d6cc170.chunk.js.map": "/Gabester0/good-brew/index.html/static/js/2.8d6cc170.chunk.js.map",
+    "index.html": "/Gabester0/good-brew/index.html/index.html",
+    "precache-manifest.3a0aecbc4af12bdb2dedc16d17bf9a65.js": "/Gabester0/good-brew/index.html/precache-manifest.3a0aecbc4af12bdb2dedc16d17bf9a65.js",
+    "service-worker.js": "/Gabester0/good-brew/index.html/service-worker.js",
+    "static/css/main.97ce96e7.chunk.css.map": "/Gabester0/good-brew/index.html/static/css/main.97ce96e7.chunk.css.map"
   }
 }
